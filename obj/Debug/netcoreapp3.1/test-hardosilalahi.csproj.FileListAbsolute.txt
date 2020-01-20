@@ -1,0 +1,11 @@
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi.deps.json
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi.runtimeconfig.json
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi.runtimeconfig.dev.json
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi.dll
+/Users/user/Documents/test-hardosilalahi/bin/Debug/netcoreapp3.1/test-hardosilalahi.pdb
+/Users/user/Documents/test-hardosilalahi/obj/Debug/netcoreapp3.1/test-hardosilalahi.csprojAssemblyReference.cache
+/Users/user/Documents/test-hardosilalahi/obj/Debug/netcoreapp3.1/test-hardosilalahi.AssemblyInfoInputs.cache
+/Users/user/Documents/test-hardosilalahi/obj/Debug/netcoreapp3.1/test-hardosilalahi.AssemblyInfo.cs
+/Users/user/Documents/test-hardosilalahi/obj/Debug/netcoreapp3.1/test-hardosilalahi.dll
+/Users/user/Documents/test-hardosilalahi/obj/Debug/netcoreapp3.1/test-hardosilalahi.pdb
