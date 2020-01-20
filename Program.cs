@@ -147,11 +147,11 @@ namespace test_hardosilalahi
         class NumberFour{
             // 04.md
             public static void Censorship(List<string> censored, string paragraph){
-                var replace = "";
+                // var replace = paragraph;
                 for(int i = 0; i < censored.Count; i++){
-                    replace = paragraph.Replace(censored[i], "*");
+                    paragraph = paragraph.Replace(censored[i].Length, "*");
                 }
-                Console.WriteLine(replace);
+                Console.WriteLine(paragraph);
             }
         }
 
