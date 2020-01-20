@@ -148,14 +148,13 @@ namespace test_hardosilalahi
             // 04.md
             public static void Censorship(List<string> censored, string paragraph){
                 // var replace = paragraph;
-                var wordList = new List<string>(){"*********","*****","***"};
-                // string a = "";
+                // var wordList = new List<string>(){"*********","*****","***"};
                 for(int i = 0; i < censored.Count; i++){
-                    // for(int j = 0; j < censored.Count;j++){
-                    //     a += "*";
-                    // }
-                    // paragraph = paragraph.Replace(censored[i], a);
-                    paragraph = paragraph.Replace(censored[i], wordList[i]);
+                    string a = "";
+                    for(int j = 0; j < censored[i].Length;j++){
+                        a += "*";
+                    }
+                    paragraph = paragraph.Replace(censored[i], a);
                 }
                 Console.WriteLine(paragraph);
             }
